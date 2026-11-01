@@ -2,7 +2,6 @@
 
 A machine learning-powered job recommendation system that matches resumes with job postings using Natural Language Processing (NLP) techniques.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sneh5824-blue)](https://github.com/Sneh5824/Intership-Job-Recommendation-System-)
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -379,5 +378,3 @@ Job Recommendation System Project
 ## License
 
 This project is for educational purposes.
-#   J o b - R e c o m m e n d a t i o n - S y s t e m  
- 
